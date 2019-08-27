@@ -5,5 +5,8 @@ def initialize(knowledge)
 end
 
 def learn(string)
-@knowledge << 
+@knowledge << string
+end
+def knowledge
+  
 end
