@@ -5,5 +5,6 @@ class Teacher < User
   def teach 
     KNOWLEDGE.map
     
+  end
   
 end
